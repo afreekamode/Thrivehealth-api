@@ -1,6 +1,10 @@
 
 # Thrive Health - API
 
+## This the Documentation for the backend api (Please Read Me)
+
+* to be added
+
 ### Contains associative routes
 
 * to be added
